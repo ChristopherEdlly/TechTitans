@@ -1,0 +1,72 @@
+* {
+    background-color: rgb(21, 25, 36);
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0;
+    margin: 0;
+    color:rgb(94, 89, 124)
+}
+
+.menu,
+.logo {
+    background-color: rgb(32, 36, 48);
+}
+
+.menu {
+    display: flex;
+    height: 50px;
+    width: 1879px
+}
+
+.logo {
+    display: flex;
+    margin-left: 875px;
+    height: 45px;
+}
+
+.nome {
+    text-align: center;
+    padding-top: 50px;
+    font-size: 50px;
+}
+
+.caixa {
+    width: 70%;
+    height: 3px;
+    background-color: rgb(35, 39, 53);
+    margin: 0 auto;
+    border-radius: 100%;
+}
+
+.info-gerais {
+    text-align: center;
+    padding-top: 50px;
+    font-size: large;
+    display: flex;
+    margin-left: 450px;
+}
+
+.info2,
+.info3,
+.info5 ,
+.info6 {
+    padding-top: 25px;
+}
+
+.info4,
+.info5,
+.info6 {
+    margin-left: 100px;
+}
+
+.descrição {
+    padding-top: 25px;
+     text-align: center;
+}
+
+.perfil {
+    height: 200px;
+    border-radius: 100%;
+    margin-left: 50px;
+}
+
+
