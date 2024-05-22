@@ -40,6 +40,5 @@ document.getElementById("form").addEventListener("submit", function(event) {
         alert("Por favor, preencha todos os campos!");
     } else {
         alert("Formulário enviado com sucesso!");
-        // Aqui você pode enviar o formulário, fazer uma solicitação AJAX, etc.
     }
 });
